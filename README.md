@@ -33,3 +33,16 @@ Install the necessary packages
 ```
 pip install -r requirements.txt
 ```
+
+## Download datasets
+The datasets used in this project are the MAESTRO and GuitarSet which can be downloaded from the respective websites:
+
+- [MAESTRO Dataset](https://magenta.tensorflow.org/datasets/maestro) (V3.0.0)
+- [GuitarSet Dataset](https://github.com/marl/guitarset) (V1.1.0)
+
+## Set up paths
+Create a `.env` file in the repo folder. In this file you should add the paths where you dowloaded the datasets by writing the following:
+```
+MAESTRO_PATH="<path>"
+GUITARSET_PATH="<path>"
+```
