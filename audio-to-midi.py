@@ -21,14 +21,19 @@ def jams_to_midi(jams_file, midi_file):
     Convert a JAMS file (loaded as JSON) to a MIDI file.
     """
     # Load the JAMS file as JSON
-    with open(jams_file, "r") as f:
-        jam_data = json.load(f)
+    with open(jams_file, "r", encoding="us-ascii") as f:
+        # jam_data = json.load(f)
+        try:
+            with open(jams_file, "r", encoding="utf-8") as f:
+                jam_data = json.load(f)
+        except UnicodeDecodeError as e:
+            return
 
     # Create a new MIDI file
     midi = pretty_midi.PrettyMIDI()
 
-    # Create an instrument (Acoustic guitar)
-    instrument = pretty_midi.Instrument(program=25)
+    # Create an instrument
+    instrument = pretty_midi.Instrument(program=0)
 
     # Extract note annotations
     for annotation in jam_data["annotations"]:
@@ -60,12 +65,18 @@ def jams_to_midi(jams_file, midi_file):
     print(f"Converted {jams_file} → {midi_file}")
 
 
-def convert_jams_to_midi(jams_file, midi_file):
+def convert_jams_to_midi():
     """ 
     Convert all JAMS files in the GuitarSet dataset to MIDI files.
     """
     for filename in os.listdir(GUITARSET_ANNOTATIONS_PATH):
+        # check if already converted
+        if os.path.exists(os.path.join(GUITARSET_MIDI_PATH, filename.replace(".jams", ".mid"))):
+            print(f"Already converted {filename}")
+            continue
         if filename.endswith(".jams"):
             jams_file = os.path.join(GUITARSET_ANNOTATIONS_PATH, filename)
             midi_file = os.path.join(GUITARSET_MIDI_PATH, filename.replace(".jams", ".mid"))
             jams_to_midi(jams_file, midi_file)
+
+# convert_jams_to_midi()
