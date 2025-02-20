@@ -6,9 +6,6 @@ import pretty_midi
 # Load environment variables
 load_dotenv()
 
-# MAESTRO paths
-MAESTRO_PATH = os.getenv("MAESTRO_PATH")
-
 # GuitarSet paths
 GUITARSET_PATH = os.getenv("GUITARSET_PATH")
 GUITARSET_MIC_PATH = os.path.join(GUITARSET_PATH, "audio_mono-mic")
