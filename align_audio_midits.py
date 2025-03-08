@@ -4,27 +4,37 @@ import librosa.display
 import os  # Import the os module for handling file paths
 
 # File paths
-midi_time_series_file = "/home/leo/kth/kexjobb/test/time_series/Chamber2_time_series.csv"
-audio_file = "/home/leo/kth/kexjobb/test/mono/Chamber2_mono.wav"
+# midi_time_series_file = "/home/leo/kth/kexjobb/test/time_series/Chamber2_time_series.csv"
+# audio_file = "/home/leo/kth/kexjobb/test/mono/Chamber2_mono.wav"
 sr = 16000  # Sample rate (16 kHz)
+
+# Get the directory of the script
+repo_root = os.path.dirname(os.path.abspath(__file__))
+
+# Construct paths relative to the repository root
+midi_time_series_file = os.path.join(repo_root, "test", "time_series", "Chamber2_time_series.csv")
+audio_file = os.path.join(repo_root, "test", "mono", "Chamber2_mono.wav")
 
 # Output directory for saving chunks
 output_dir = "/home/leo/kth/kexjobb/test/ready_data/"
 
+# Load MIDI time series
+midi_time_series = np.loadtxt(midi_time_series_file, delimiter=",")
+
+## for error checking -------
 # Ensure output directory exists
 os.makedirs(output_dir, exist_ok=True)
 
 # Print to confirm directory is created
 print(f"Saving chunks to: {output_dir}")
 
-# Load MIDI time series
-midi_time_series = np.loadtxt(midi_time_series_file, delimiter=",")
-
 # Check shape of the midi_time_series to see if it has enough time steps
 print(f"Shape of midi_time_series: {midi_time_series.shape}")
 
 # Check number of time steps in the midi_time_series
 print(f"Number of time steps in midi_time_series: {midi_time_series.shape[0]}")
+##---------------------------------------------------------------
+
 
 # Load audio and extract features (Mel spectrogram)
 y, _ = librosa.load(audio_file, sr=sr)

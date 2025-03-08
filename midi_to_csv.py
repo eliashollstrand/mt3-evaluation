@@ -1,14 +1,23 @@
 import mido
 import csv
+import os
 
 # Path to input MIDI file
-midi_file_path = '/home/leo/kth/kexjobb/test/midi/Chamber2.midi'  # Make sure this path points to your MIDI file
+# midi_file_path = '/home/leo/kth/kexjobb/test/midi/Chamber2.midi'  # Make sure this path points to your MIDI file
 
 # Output CSV file path
-csv_file_path = '/home/leo/kth/kexjobb/test/csv_midi/Chamber2_csv.csv'
+# csv_file_path = '/home/leo/kth/kexjobb/test/csv_midi/Chamber2_csv.csv'
 
 ## Testing if midi info is written to the file
-test_csv_path = '/home/leo/kth/kexjobb/test/csv_midi/test_output.csv'
+# test_csv_path = '/home/leo/kth/kexjobb/test/csv_midi/test_output.csv'
+
+# Get the directory of the script
+repo_root = os.path.dirname(os.path.abspath(__file__))
+
+# Construct paths relative to the repository root
+midi_file_path = os.path.join(repo_root, "test", "midi", "Chamber2.midi")
+csv_file_path = os.path.join(repo_root, "test", "csv_midi", "Chamber2_csv.csv")
+test_csv_path = os.path.join(repo_root, "test", "csv_midi", "test_output.csv")
 
 # Load the MIDI file
 midi_file = mido.MidiFile(midi_file_path)

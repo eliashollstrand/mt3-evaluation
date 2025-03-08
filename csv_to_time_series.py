@@ -1,5 +1,6 @@
 import numpy as np
 import csv
+import os
 
 # Parameters
 window_size_ms = 64  # Each time step represents 64 ms
@@ -10,10 +11,17 @@ num_pedals = 3  # Sustain, soft, sostenuto
 total_features = num_piano_keys + num_pedals  # 131 total features
 
 # Load MIDI CSV
-csv_file_path = '/home/leo/kth/kexjobb/test/csv_midi/Chamber2_csv.csv'  # Replace with your CSV file path
+# csv_file_path = '/home/leo/kth/kexjobb/test/csv_midi/Chamber2_csv.csv'  # Replace with your CSV file path
 
 # output file path
-output_time_series_file = "/home/leo/kth/kexjobb/test/time_series/Chamber2_time_series.csv"
+# output_time_series_file = "/home/leo/kth/kexjobb/test/time_series/Chamber2_time_series.csv"
+
+# Get the absolute path of the current script's directory
+repo_root = os.path.dirname(os.path.abspath(__file__))
+
+# Construct paths relative to the repository
+csv_file_path = os.path.join(repo_root, "test", "csv_midi", "Chamber2_csv.csv")
+output_time_series_file = os.path.join(repo_root, "test", "time_series", "Chamber2_time_series.csv")
 
 # Step 1: Read MIDI events from CSV
 midi_events = []
@@ -53,7 +61,7 @@ for time, event_type, note, velocity in midi_events:
     elif event_type == "note_off":
         midi_time_series[time_step, note] = 0  # Reset velocity when key is released
 
-    # Handle pedal events (if present in your data)
+    # Handle pedal events 
     if event_type == "control_change":
         if note == 64:  # Sustain pedal (CC 64)
             midi_time_series[time_step, 128] = velocity  # Store sustain pedal value
@@ -62,7 +70,8 @@ for time, event_type, note, velocity in midi_events:
         elif note == 67:  # Soft pedal (CC 67)
             midi_time_series[time_step, 130] = velocity
 
-print(midi_time_series[:1])  # Print first 5 time steps
+# Print first 5 time steps
+print(midi_time_series[:1])  
 
 # Step 4: Save the time-series data as a new CSV file
 np.savetxt(output_time_series_file, midi_time_series, delimiter=",")
