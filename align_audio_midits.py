@@ -16,17 +16,13 @@ midi_time_series_file = os.path.join(repo_root, "test", "time_series", "Chamber2
 audio_file = os.path.join(repo_root, "test", "mono", "Chamber2_mono.wav")
 
 # Output directory for saving chunks
-output_dir = "/home/leo/kth/kexjobb/test/ready_data/"
+output_dir_midi = "/home/leo/kth/kexjobb/amt-piano-guitar/test/midi_chunks/"
+output_dir_audio = "/home/leo/kth/kexjobb/amt-piano-guitar/test/audio_chunks/"
 
 # Load MIDI time series
 midi_time_series = np.loadtxt(midi_time_series_file, delimiter=",")
 
 ## for error checking -------
-# Ensure output directory exists
-os.makedirs(output_dir, exist_ok=True)
-
-# Print to confirm directory is created
-print(f"Saving chunks to: {output_dir}")
 
 # Check shape of the midi_time_series to see if it has enough time steps
 print(f"Shape of midi_time_series: {midi_time_series.shape}")
@@ -62,8 +58,8 @@ for i in range(num_chunks):
     audio_chunk = mel_spec[:, i * chunk_size:(i + 1) * chunk_size]
 
     # Save chunks (e.g., as .npy for training)
-    midi_chunk_path = os.path.join(output_dir, f"midi_chunk_{i}.npy")
-    audio_chunk_path = os.path.join(output_dir, f"audio_chunk_{i}.npy")
+    midi_chunk_path = os.path.join(output_dir_midi, f"midi_chunk_{i}.npy")
+    audio_chunk_path = os.path.join(output_dir_audio, f"audio_chunk_{i}.npy")
     
     print(f"Saving {midi_chunk_path}")
     print(f"Saving {audio_chunk_path}")
@@ -71,8 +67,7 @@ for i in range(num_chunks):
     np.save(midi_chunk_path, midi_chunk)
     np.save(audio_chunk_path, audio_chunk)
 
-print(f"MIDI and audio aligned into 10-second chunks and saved to {output_dir}")
-
+print(f"MIDI and audio aligned into 10-second chunks and saved")
 
 
 
