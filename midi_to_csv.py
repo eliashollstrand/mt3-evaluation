@@ -1,67 +1,49 @@
 import mido
 import csv
 import os
+from dotenv import load_dotenv
 
-# Path to input MIDI file
-# midi_file_path = '/home/leo/kth/kexjobb/test/midi/Chamber2.midi'  # Make sure this path points to your MIDI file
+# Load environment variables
+load_dotenv()
 
-# Output CSV file path
-# csv_file_path = '/home/leo/kth/kexjobb/test/csv_midi/Chamber2_csv.csv'
+# Get the path to the Maestro dataset
+MAESTRO_PATH = os.getenv("MAESTRO_PATH")
 
-## Testing if midi info is written to the file
-# test_csv_path = '/home/leo/kth/kexjobb/test/csv_midi/test_output.csv'
+# Define output directory for CSV files
+CSV_OUTPUT_DIR = os.path.join(MAESTRO_PATH, "csv_midi")
+os.makedirs(CSV_OUTPUT_DIR, exist_ok=True)  # Ensure the directory exists
 
-# Get the directory of the script
-repo_root = os.path.dirname(os.path.abspath(__file__))
-
-# Construct paths relative to the repository root
-midi_file_path = os.path.join(repo_root, "test", "midi", "Chamber2.midi")
-csv_file_path = os.path.join(repo_root, "test", "csv_midi", "Chamber2_csv.csv")
-test_csv_path = os.path.join(repo_root, "test", "csv_midi", "test_output.csv")
-
-# Load the MIDI file
-midi_file = mido.MidiFile(midi_file_path)
-
-
-# Open the CSV file for writing
-with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
-    writer = csv.writer(csv_file)
-    
-    # Write the header row
-    writer.writerow(['Time', 'Type', 'Note', 'Velocity'])
-    
-    # Iterate through each track and its messages in the MIDI file
-    for track in midi_file.tracks:
-        time = 0
-        for msg in track:
-            time += msg.time  # Accumulate the time delta
+def convert_midi_to_csv(midi_path, csv_path):
+    """Converts a single MIDI file to CSV format."""
+    try:
+        midi_file = mido.MidiFile(midi_path)
+        
+        with open(csv_path, 'w', newline='', encoding='utf-8') as csv_file:
+            writer = csv.writer(csv_file)
+            writer.writerow(['Time', 'Type', 'Note', 'Velocity'])  # CSV Header
             
-            # Print the message to see what's being processed
-            print(f"Message: {msg}")
-            
-            # Write 'note_on' and 'note_off' events to CSV, filtering out types like control change that contains metadata
-            if msg.type == 'note_on' or msg.type == 'note_off':
-                writer.writerow([time, msg.type, msg.note, msg.velocity])
+            time = 0  # Track accumulated time
+            for track in midi_file.tracks:
+                for msg in track:
+                    time += msg.time  # Accumulate delta time
+                    if msg.type in ['note_on', 'note_off']:  # Filter MIDI messages
+                        writer.writerow([time, msg.type, msg.note, msg.velocity])
 
-    # Explicitly flush the writer to ensure data is written to the file
-    csv_file.flush()
+        print(f"Converted: {midi_path} -> {csv_path}")
+    except Exception as e:
+        print(f"Error processing {midi_path}: {e}")
 
+# Recursively process all MIDI files in MAESTRO_PATH
+if MAESTRO_PATH:
+    print(f"Converting MIDI files in {MAESTRO_PATH} to CSV...")
+    for root, _, files in os.walk(MAESTRO_PATH):
+        for file_name in files:
+            if file_name.lower().endswith(('.midi', '.mid')):  # Check for MIDI files
+                midi_path = os.path.join(root, file_name)
+                csv_file_name = f"{os.path.splitext(file_name)[0]}.csv"
+                csv_path = os.path.join(CSV_OUTPUT_DIR, csv_file_name)
+                convert_midi_to_csv(midi_path, csv_path)
+    print("Conversion complete.")
+else:
+    print("Error: MAESTRO_PATH environment variable not set.")
 
-'''
-## Testing if midi info is written to the file
-with open(test_csv_path, 'w', newline='', encoding='utf-8') as test_cv:
-    writer=csv.writer(test_cv)
-    writer.writerow(['Test', 'Data'])
-    writer.writerow([1, 2])
-    writer.writerow([3, 4])
-
-print(f"Message Type: {msg.type}")
-'''
-print(f"MIDI file converted to CSV: {csv_file_path}")
-
-
-
-
-
-#input: '/home/leo/kth/kexjobb/test/midi/DearYou.midi'
-#output: '/home/leo/kth/kexjobb/test/csv_midi/DearYouCSV.csv'
