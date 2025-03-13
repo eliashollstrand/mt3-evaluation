@@ -16,8 +16,8 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 # Target sample rate
 TARGET_SR = 16000  # 16kHz
 
-# Total number of files to be processed
-total_files = 0
+# Maximum number of files to process
+MAX_FILES = 500
 
 def downsample_wav(input_path, output_path, target_sr=TARGET_SR):
     """Loads a WAV file, downsamples to 16kHz, converts to mono, and saves it."""
@@ -32,7 +32,7 @@ def downsample_wav(input_path, output_path, target_sr=TARGET_SR):
         print(f"Error processing {input_path}: {e}")
 
 def process_all_wav_files(maestro_path):
-    """Find and downsample all WAV files only in the selected year folders."""
+    """Find and downsample up to 500 WAV files only in the selected year folders."""
     file_count = 0
     allowed_folders = {str(year) for year in range(2004, 2019)}  # Set of allowed years
 
@@ -47,8 +47,6 @@ def process_all_wav_files(maestro_path):
 
         for file in files:
             if file.endswith(".wav"):
-                file_count += 1
-                print(f"Processing file {file_count}/{total_files}: {file}")
                 input_path = os.path.join(root, file)
                 
                 # Create relative output path inside wav_16k
@@ -60,15 +58,19 @@ def process_all_wav_files(maestro_path):
 
                 # Process the WAV file
                 downsample_wav(input_path, output_path)
+                
+                file_count += 1
+                print(f"Processed file {file_count}/{MAX_FILES}: {file}")
 
+                # Stop processing after 500 files
+                if file_count >= MAX_FILES:
+                    print("Reached maximum file limit (500). Stopping...")
+                    return  # Exit function early
 
 if __name__ == "__main__":
     if not MAESTRO_PATH:
         print("Error: MAESTRO_PATH environment variable is not set.")
     else:
-        # Count wav files in MAESTRO_PATH
-        total_files = sum(1 for root, _, files in os.walk(MAESTRO_PATH) for file in files if file.endswith(".wav"))
-
-        print(f"Processing all {total_files} WAV files in: {MAESTRO_PATH}")
+        print(f"Processing up to {MAX_FILES} WAV files in: {MAESTRO_PATH}")
         process_all_wav_files(MAESTRO_PATH)
-        print("All files processed successfully!")
+        print("Processing complete!")
