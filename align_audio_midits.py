@@ -1,73 +1,67 @@
 import numpy as np
 import librosa
-import librosa.display
-import os  # Import the os module for handling file paths
+import os
 
-# File paths
-# midi_time_series_file = "/home/leo/kth/kexjobb/test/time_series/Chamber2_time_series.csv"
-# audio_file = "/home/leo/kth/kexjobb/test/mono/Chamber2_mono.wav"
+# Sample rate and processing window settings
 sr = 16000  # Sample rate (16 kHz)
+window_size = 1024  # 1024 samples per 64 ms window
+chunk_size = 156  # Number of time steps per 10s chunk
 
-# Get the directory of the script
+# Get script directory
 repo_root = os.path.dirname(os.path.abspath(__file__))
 
-# Construct paths relative to the repository root
+# File paths
 midi_time_series_file = os.path.join(repo_root, "test", "time_series", "Chamber2_time_series.csv")
 audio_file = os.path.join(repo_root, "test", "mono", "Chamber2_mono.wav")
 
-# Output directory for saving chunks
-output_dir_midi = "/home/leo/kth/kexjobb/amt-piano-guitar/test/midi_chunks/"
-output_dir_audio = "/home/leo/kth/kexjobb/amt-piano-guitar/test/audio_chunks/"
+# Output directories
+output_dir_midi = os.path.join(repo_root, "test", "midi_chunks")
+output_dir_audio = os.path.join(repo_root, "test", "audio_chunks")
 
-# Load MIDI time series
+# Ensure output directories exist
+os.makedirs(output_dir_midi, exist_ok=True)
+os.makedirs(output_dir_audio, exist_ok=True)
+
+# Load MIDI time series (expected shape: [num_time_steps, 131])
 midi_time_series = np.loadtxt(midi_time_series_file, delimiter=",")
+num_time_steps = midi_time_series.shape[0]
 
-## for error checking -------
+print(f"Loaded MIDI time series with shape: {midi_time_series.shape}")
 
-# Check shape of the midi_time_series to see if it has enough time steps
-print(f"Shape of midi_time_series: {midi_time_series.shape}")
-
-# Check number of time steps in the midi_time_series
-print(f"Number of time steps in midi_time_series: {midi_time_series.shape[0]}")
-##---------------------------------------------------------------
-
-
-# Load audio and extract features (Mel spectrogram)
+# Load raw audio
 y, _ = librosa.load(audio_file, sr=sr)
-mel_spec = librosa.feature.melspectrogram(y=y, sr=sr, n_fft=1024, hop_length=1024)
 
-# Convert spectrogram to time steps matching MIDI (64ms per step)
-mel_spec = mel_spec[:, :midi_time_series.shape[0]]  # Trim or pad to match
+# Ensure audio length matches expected number of windows
+expected_length = num_time_steps * window_size  # Total expected samples
+if len(y) < expected_length:
+    y = np.pad(y, (0, expected_length - len(y)), mode='constant')
+else:
+    y = y[:expected_length]
 
-# Define chunk size (adjusted to match available time steps)
-# Define chunk size (156 time steps for 9.984s)
-chunk_size = 156
-num_chunks = midi_time_series.shape[0] // chunk_size
+# Reshape audio into (num_time_steps, 1024)
+audio_time_series = y.reshape(num_time_steps, window_size)
 
-# Print number of chunks to be processed
-print(f"Number of chunks: {num_chunks}")
+print(f"Reshaped audio into time-series format with shape: {audio_time_series.shape}")
 
-# If num_chunks is zero, we need to check the MIDI data
+# Compute number of chunks
+num_chunks = num_time_steps // chunk_size
+
 if num_chunks == 0:
-    print("The number of time steps in the MIDI time series is too small to create chunks.")
-    print("Consider adjusting the chunk_size or check the MIDI time series data.")
+    print("Error: Not enough time steps to create a chunk.")
+else:
+    print(f"Number of 10-second chunks: {num_chunks}")
 
-# Split into chunks and save them to the specified directory
+# Split and save chunks
 for i in range(num_chunks):
     midi_chunk = midi_time_series[i * chunk_size:(i + 1) * chunk_size, :]
-    audio_chunk = mel_spec[:, i * chunk_size:(i + 1) * chunk_size]
+    audio_chunk = audio_time_series[i * chunk_size:(i + 1) * chunk_size, :]
 
-    # Save chunks (e.g., as .npy for training)
     midi_chunk_path = os.path.join(output_dir_midi, f"midi_chunk_{i}.npy")
     audio_chunk_path = os.path.join(output_dir_audio, f"audio_chunk_{i}.npy")
-    
-    print(f"Saving {midi_chunk_path}")
-    print(f"Saving {audio_chunk_path}")
 
     np.save(midi_chunk_path, midi_chunk)
     np.save(audio_chunk_path, audio_chunk)
 
-print(f"MIDI and audio aligned into 10-second chunks and saved")
+    print(f"Saved {midi_chunk_path} and {audio_chunk_path}")
 
-
-
+print("Audio and MIDI alignment complete.")

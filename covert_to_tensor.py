@@ -43,14 +43,21 @@ for midi_path, audio_path in zip(midi_files, audio_files):
     midi_tensor = tf.convert_to_tensor(midi_data, dtype=tf.float32)
     audio_tensor = tf.convert_to_tensor(audio_data, dtype=tf.float32)
 
-    # Define the output TFRecord file path
-    record_name = os.path.basename(midi_path).replace(".npy", ".tfrecord")
-    tfrecord_path = os.path.join(tfrecord_output_dir, record_name)
+    # Define the output TFRecord file paths
+    midi_record_name = os.path.basename(midi_path).replace(".npy", ".tfrecord")
+    audio_record_name = os.path.basename(audio_path).replace(".npy", ".tfrecord")
+    midi_tfrecord_path = os.path.join(tfrecord_output_dir, midi_record_name)
+    audio_tfrecord_path = os.path.join(tfrecord_output_dir, audio_record_name)
 
-    # Write to TFRecord
-    with tf.io.TFRecordWriter(tfrecord_path) as writer:
+    # Write MIDI to TFRecord
+    with tf.io.TFRecordWriter(midi_tfrecord_path) as writer:
         tf_example = serialize_example(midi_tensor.numpy(), audio_tensor.numpy())
         writer.write(tf_example)
+    print(f"MIDI TFRecord saved to: {midi_tfrecord_path}")
 
-    print(f"TFRecord saved to: {tfrecord_path}")
+    # Write audio to TFRecord
+    with tf.io.TFRecordWriter(audio_tfrecord_path) as writer:
+        tf_example = serialize_example(midi_tensor.numpy(), audio_tensor.numpy())
+        writer.write(tf_example)
+    print(f"Audio TFRecord saved to: {audio_tfrecord_path}")
 
