@@ -68,12 +68,12 @@ def convert_jams_to_midi():
     """
     for filename in os.listdir(GUITARSET_ANNOTATIONS_PATH):
         # check if already converted
-        if os.path.exists(os.path.join(GUITARSET_MIDI_PATH, filename.replace(".jams", ".mid"))):
+        if os.path.exists(os.path.join(GUITARSET_MIDI_PATH, filename.replace(".jams", "_mic.midi"))):
             print(f"Already converted {filename}")
             continue
         if filename.endswith(".jams"):
             jams_file = os.path.join(GUITARSET_ANNOTATIONS_PATH, filename)
-            midi_file = os.path.join(GUITARSET_MIDI_PATH, filename.replace(".jams", ".mid"))
+            midi_file = os.path.join(GUITARSET_MIDI_PATH, filename.replace(".jams", "_mic.midi"))
             jams_to_midi(jams_file, midi_file)
 
 # convert_jams_to_midi()
