@@ -1,0 +1,2162 @@
+Scores for file 00_Funk1-97-C_comp_mic.wav
+Onset F1: 0.6122
+Onset & Offset F1: 0.1986
+
+Transcribed 1 files out of 360
+
+Scores for file 00_BN3-154-E_solo_mic.wav
+Onset F1: 0.4751
+Onset & Offset F1: 0.1878
+
+Transcribed 2 files out of 360
+
+Scores for file 00_BN3-154-E_comp_mic.wav
+Onset F1: 0.6292
+Onset & Offset F1: 0.1517
+
+Transcribed 3 files out of 360
+
+Scores for file 00_BN3-119-G_solo_mic.wav
+Onset F1: 0.6116
+Onset & Offset F1: 0.1570
+
+Transcribed 4 files out of 360
+
+Scores for file 00_BN3-119-G_comp_mic.wav
+Onset F1: 0.6522
+Onset & Offset F1: 0.1522
+
+Transcribed 5 files out of 360
+
+Scores for file 00_BN2-166-Ab_solo_mic.wav
+Onset F1: 0.4364
+Onset & Offset F1: 0.1333
+
+Transcribed 6 files out of 360
+
+Scores for file 00_BN2-166-Ab_comp_mic.wav
+Onset F1: 0.6734
+Onset & Offset F1: 0.0810
+
+Transcribed 7 files out of 360
+
+Scores for file 00_BN2-131-B_solo_mic.wav
+Onset F1: 0.5270
+Onset & Offset F1: 0.2159
+
+Transcribed 8 files out of 360
+
+Scores for file 00_BN2-131-B_comp_mic.wav
+Onset F1: 0.6157
+Onset & Offset F1: 0.1004
+
+Transcribed 9 files out of 360
+
+Scores for file 00_BN1-147-Gb_solo_mic.wav
+Onset F1: 0.3920
+Onset & Offset F1: 0.0503
+
+Transcribed 10 files out of 360
+
+Scores for file 00_BN1-147-Gb_comp_mic.wav
+Onset F1: 0.6023
+Onset & Offset F1: 0.0994
+
+Transcribed 11 files out of 360
+
+Scores for file 00_BN1-129-Eb_solo_mic.wav
+Onset F1: 0.5202
+Onset & Offset F1: 0.2242
+
+Transcribed 12 files out of 360
+
+Scores for file 00_BN1-129-Eb_comp_mic.wav
+Onset F1: 0.6549
+Onset & Offset F1: 0.1479
+
+Transcribed 13 files out of 360
+
+Scores for file 00_Jazz1-130-D_solo_mic.wav
+Onset F1: 0.7218
+Onset & Offset F1: 0.3308
+
+Transcribed 14 files out of 360
+
+Scores for file 00_Jazz1-130-D_comp_mic.wav
+Onset F1: 0.6667
+Onset & Offset F1: 0.3026
+
+Transcribed 15 files out of 360
+
+Scores for file 00_Funk3-112-C#_solo_mic.wav
+Onset F1: 0.6128
+Onset & Offset F1: 0.2786
+
+Transcribed 16 files out of 360
+
+Scores for file 00_Funk3-112-C#_comp_mic.wav
+Onset F1: 0.5078
+Onset & Offset F1: 0.1051
+
+Transcribed 17 files out of 360
+
+Scores for file 00_Funk3-98-A_solo_mic.wav
+Onset F1: 0.6905
+Onset & Offset F1: 0.4206
+
+Transcribed 18 files out of 360
+
+Scores for file 00_Funk3-98-A_comp_mic.wav
+Onset F1: 0.6111
+Onset & Offset F1: 0.2361
+
+Transcribed 19 files out of 360
+
+Scores for file 00_Funk2-119-G_solo_mic.wav
+Onset F1: 0.5946
+Onset & Offset F1: 0.3459
+
+Transcribed 20 files out of 360
+
+Scores for file 00_Funk2-119-G_comp_mic.wav
+Onset F1: 0.5932
+Onset & Offset F1: 0.1671
+
+Transcribed 21 files out of 360
+
+Scores for file 00_Funk2-108-Eb_solo_mic.wav
+Onset F1: 0.6960
+Onset & Offset F1: 0.3443
+
+Transcribed 22 files out of 360
+
+Scores for file 00_Funk2-108-Eb_comp_mic.wav
+Onset F1: 0.5959
+Onset & Offset F1: 0.2393
+
+Transcribed 23 files out of 360
+
+Scores for file 00_Funk1-114-Ab_solo_mic.wav
+Onset F1: 0.6357
+Onset & Offset F1: 0.1240
+
+Transcribed 24 files out of 360
+
+Scores for file 00_Funk1-114-Ab_comp_mic.wav
+Onset F1: 0.6362
+Onset & Offset F1: 0.1272
+
+Transcribed 25 files out of 360
+
+Scores for file 00_Funk1-97-C_solo_mic.wav
+Onset F1: 0.6880
+Onset & Offset F1: 0.4320
+
+Transcribed 26 files out of 360
+
+Scores for file 00_Rock1-130-A_comp_mic.wav
+Onset F1: 0.5518
+Onset & Offset F1: 0.2974
+
+Transcribed 27 files out of 360
+
+Scores for file 00_Rock1-90-C#_solo_mic.wav
+Onset F1: 0.6042
+Onset & Offset F1: 0.3073
+
+Transcribed 28 files out of 360
+
+Scores for file 00_Rock1-90-C#_comp_mic.wav
+Onset F1: 0.6360
+Onset & Offset F1: 0.1602
+
+Transcribed 29 files out of 360
+
+Scores for file 00_Jazz3-150-C_solo_mic.wav
+Onset F1: 0.5648
+Onset & Offset F1: 0.3333
+
+Transcribed 30 files out of 360
+
+Scores for file 00_Jazz3-150-C_comp_mic.wav
+Onset F1: 0.5804
+Onset & Offset F1: 0.1962
+
+Transcribed 31 files out of 360
+
+Scores for file 00_Jazz3-137-Eb_solo_mic.wav
+Onset F1: 0.5134
+Onset & Offset F1: 0.1604
+
+Transcribed 32 files out of 360
+
+Scores for file 00_Jazz3-137-Eb_comp_mic.wav
+Onset F1: 0.6256
+Onset & Offset F1: 0.2603
+
+Transcribed 33 files out of 360
+
+Scores for file 00_Jazz2-187-F#_solo_mic.wav
+Onset F1: 0.7048
+Onset & Offset F1: 0.2555
+
+Transcribed 34 files out of 360
+
+Scores for file 00_Jazz2-187-F#_comp_mic.wav
+Onset F1: 0.6337
+Onset & Offset F1: 0.0658
+
+Transcribed 35 files out of 360
+
+Scores for file 00_Jazz2-110-Bb_solo_mic.wav
+Onset F1: 0.5702
+Onset & Offset F1: 0.3223
+
+Transcribed 36 files out of 360
+
+Scores for file 00_Jazz2-110-Bb_comp_mic.wav
+Onset F1: 0.5950
+Onset & Offset F1: 0.2397
+
+Transcribed 37 files out of 360
+
+Scores for file 00_Jazz1-200-B_solo_mic.wav
+Onset F1: 0.5870
+Onset & Offset F1: 0.1739
+
+Transcribed 38 files out of 360
+
+Scores for file 00_Jazz1-200-B_comp_mic.wav
+Onset F1: 0.5502
+Onset & Offset F1: 0.2006
+
+Transcribed 39 files out of 360
+
+Scores for file 00_SS1-100-C#_comp_mic.wav
+Onset F1: 0.5016
+Onset & Offset F1: 0.0354
+
+Transcribed 40 files out of 360
+
+Scores for file 00_SS1-68-E_solo_mic.wav
+Onset F1: 0.6079
+Onset & Offset F1: 0.3063
+
+Transcribed 41 files out of 360
+
+Scores for file 00_SS1-68-E_comp_mic.wav
+Onset F1: 0.5839
+Onset & Offset F1: 0.1946
+
+Transcribed 42 files out of 360
+
+Scores for file 00_Rock3-148-C_solo_mic.wav
+Onset F1: 0.7073
+Onset & Offset F1: 0.3049
+
+Transcribed 43 files out of 360
+
+Scores for file 00_Rock3-148-C_comp_mic.wav
+Onset F1: 0.6375
+Onset & Offset F1: 0.3293
+
+Transcribed 44 files out of 360
+
+Scores for file 00_Rock3-117-Bb_solo_mic.wav
+Onset F1: 0.6957
+Onset & Offset F1: 0.3478
+
+Transcribed 45 files out of 360
+
+Scores for file 00_Rock3-117-Bb_comp_mic.wav
+Onset F1: 0.5805
+Onset & Offset F1: 0.2142
+
+Transcribed 46 files out of 360
+
+Scores for file 00_Rock2-142-D_solo_mic.wav
+Onset F1: 0.6731
+Onset & Offset F1: 0.3107
+
+Transcribed 47 files out of 360
+
+Scores for file 00_Rock2-142-D_comp_mic.wav
+Onset F1: 0.6713
+Onset & Offset F1: 0.1908
+
+Transcribed 48 files out of 360
+
+Scores for file 00_Rock2-85-F_solo_mic.wav
+Onset F1: 0.5795
+Onset & Offset F1: 0.2769
+
+Transcribed 49 files out of 360
+
+Scores for file 00_Rock2-85-F_comp_mic.wav
+Onset F1: 0.6350
+Onset & Offset F1: 0.2288
+
+Transcribed 50 files out of 360
+
+Scores for file 00_Rock1-130-A_solo_mic.wav
+Onset F1: 0.4594
+Onset & Offset F1: 0.0989
+
+Transcribed 51 files out of 360
+
+Scores for file 01_BN2-131-B_solo_mic.wav
+Onset F1: 0.6469
+Onset & Offset F1: 0.1848
+
+Transcribed 52 files out of 360
+
+Scores for file 01_BN2-131-B_comp_mic.wav
+Onset F1: 0.6091
+Onset & Offset F1: 0.2690
+
+Transcribed 53 files out of 360
+
+Scores for file 01_BN1-147-Gb_solo_mic.wav
+Onset F1: 0.5714
+Onset & Offset F1: 0.0741
+
+Transcribed 54 files out of 360
+
+Scores for file 01_BN1-147-Gb_comp_mic.wav
+Onset F1: 0.6440
+Onset & Offset F1: 0.2601
+
+Transcribed 55 files out of 360
+
+Scores for file 01_BN1-129-Eb_solo_mic.wav
+Onset F1: 0.5882
+Onset & Offset F1: 0.2185
+
+Transcribed 56 files out of 360
+
+Scores for file 01_BN1-129-Eb_comp_mic.wav
+Onset F1: 0.6494
+Onset & Offset F1: 0.2165
+
+Transcribed 57 files out of 360
+
+Scores for file 00_SS3-98-C_solo_mic.wav
+Onset F1: 0.6954
+Onset & Offset F1: 0.3612
+
+Transcribed 58 files out of 360
+
+Scores for file 00_SS3-98-C_comp_mic.wav
+Onset F1: 0.6763
+Onset & Offset F1: 0.1868
+
+Transcribed 59 files out of 360
+
+Scores for file 00_SS3-84-Bb_solo_mic.wav
+Onset F1: 0.6690
+Onset & Offset F1: 0.3763
+
+Transcribed 60 files out of 360
+
+Scores for file 00_SS3-84-Bb_comp_mic.wav
+Onset F1: 0.6345
+Onset & Offset F1: 0.1827
+
+Transcribed 61 files out of 360
+
+Scores for file 00_SS2-107-Ab_solo_mic.wav
+Onset F1: 0.6129
+Onset & Offset F1: 0.2839
+
+Transcribed 62 files out of 360
+
+Scores for file 00_SS2-107-Ab_comp_mic.wav
+Onset F1: 0.6986
+Onset & Offset F1: 0.1454
+
+Transcribed 63 files out of 360
+
+Scores for file 00_SS2-88-F_solo_mic.wav
+Onset F1: 0.6207
+Onset & Offset F1: 0.3172
+
+Transcribed 64 files out of 360
+
+Scores for file 00_SS2-88-F_comp_mic.wav
+Onset F1: 0.5725
+Onset & Offset F1: 0.0991
+
+Transcribed 65 files out of 360
+
+Scores for file 00_SS1-100-C#_solo_mic.wav
+Onset F1: 0.5455
+Onset & Offset F1: 0.1340
+
+Transcribed 66 files out of 360
+
+Scores for file 01_Funk2-119-G_comp_mic.wav
+Onset F1: 0.4387
+Onset & Offset F1: 0.0890
+
+Transcribed 67 files out of 360
+
+Scores for file 01_Funk2-108-Eb_solo_mic.wav
+Onset F1: 0.5606
+Onset & Offset F1: 0.1917
+
+Transcribed 68 files out of 360
+
+Scores for file 01_Funk2-108-Eb_comp_mic.wav
+Onset F1: 0.4216
+Onset & Offset F1: 0.0281
+
+Transcribed 69 files out of 360
+
+Scores for file 01_Funk1-114-Ab_solo_mic.wav
+Onset F1: 0.5414
+Onset & Offset F1: 0.0652
+
+Transcribed 70 files out of 360
+
+Scores for file 01_Funk1-114-Ab_comp_mic.wav
+Onset F1: 0.4986
+Onset & Offset F1: 0.1197
+
+Transcribed 71 files out of 360
+
+Scores for file 01_Funk1-97-C_solo_mic.wav
+Onset F1: 0.5696
+Onset & Offset F1: 0.2071
+
+Transcribed 72 files out of 360
+
+Scores for file 01_Funk1-97-C_comp_mic.wav
+Onset F1: 0.6555
+Onset & Offset F1: 0.3065
+
+Transcribed 73 files out of 360
+
+Scores for file 01_BN3-154-E_solo_mic.wav
+Onset F1: 0.5176
+Onset & Offset F1: 0.1725
+
+Transcribed 74 files out of 360
+
+Scores for file 01_BN3-154-E_comp_mic.wav
+Onset F1: 0.4914
+Onset & Offset F1: 0.1314
+
+Transcribed 75 files out of 360
+
+Scores for file 01_BN3-119-G_solo_mic.wav
+Onset F1: 0.5524
+Onset & Offset F1: 0.1810
+
+Transcribed 76 files out of 360
+
+Scores for file 01_BN3-119-G_comp_mic.wav
+Onset F1: 0.7766
+Onset & Offset F1: 0.2021
+
+Transcribed 77 files out of 360
+
+Scores for file 01_BN2-166-Ab_solo_mic.wav
+Onset F1: 0.5841
+Onset & Offset F1: 0.1587
+
+Transcribed 78 files out of 360
+
+Scores for file 01_BN2-166-Ab_comp_mic.wav
+Onset F1: 0.5465
+Onset & Offset F1: 0.1859
+
+Transcribed 79 files out of 360
+
+Scores for file 01_Jazz2-187-F#_comp_mic.wav
+Onset F1: 0.5966
+Onset & Offset F1: 0.0341
+
+Transcribed 80 files out of 360
+
+Scores for file 01_Jazz2-110-Bb_solo_mic.wav
+Onset F1: 0.5540
+Onset & Offset F1: 0.2105
+
+Transcribed 81 files out of 360
+
+Scores for file 01_Jazz2-110-Bb_comp_mic.wav
+Onset F1: 0.6040
+Onset & Offset F1: 0.2030
+
+Transcribed 82 files out of 360
+
+Scores for file 01_Jazz1-200-B_solo_mic.wav
+Onset F1: 0.5625
+Onset & Offset F1: 0.1719
+
+Transcribed 83 files out of 360
+
+Scores for file 01_Jazz1-200-B_comp_mic.wav
+Onset F1: 0.7510
+Onset & Offset F1: 0.1224
+
+Transcribed 84 files out of 360
+
+Scores for file 01_Jazz1-130-D_solo_mic.wav
+Onset F1: 0.5000
+Onset & Offset F1: 0.1111
+
+Transcribed 85 files out of 360
+
+Scores for file 01_Jazz1-130-D_comp_mic.wav
+Onset F1: 0.6556
+Onset & Offset F1: 0.2573
+
+Transcribed 86 files out of 360
+
+Scores for file 01_Funk3-112-C#_solo_mic.wav
+Onset F1: 0.5431
+Onset & Offset F1: 0.1681
+
+Transcribed 87 files out of 360
+
+Scores for file 01_Funk3-112-C#_comp_mic.wav
+Onset F1: 0.6207
+Onset & Offset F1: 0.1926
+
+Transcribed 88 files out of 360
+
+Scores for file 01_Funk3-98-A_solo_mic.wav
+Onset F1: 0.5771
+Onset & Offset F1: 0.2178
+
+Transcribed 89 files out of 360
+
+Scores for file 01_Funk3-98-A_comp_mic.wav
+Onset F1: 0.5569
+Onset & Offset F1: 0.1761
+
+Transcribed 90 files out of 360
+
+Scores for file 01_Funk2-119-G_solo_mic.wav
+Onset F1: 0.5843
+Onset & Offset F1: 0.2079
+
+Transcribed 91 files out of 360
+
+Scores for file 01_SS2-107-Ab_solo_mic.wav
+Onset F1: 0.5347
+Onset & Offset F1: 0.1601
+
+Transcribed 92 files out of 360
+
+Scores for file 01_SS2-107-Ab_comp_mic.wav
+Onset F1: 0.3817
+Onset & Offset F1: 0.0214
+
+Transcribed 93 files out of 360
+
+Scores for file 01_SS2-88-F_solo_mic.wav
+Onset F1: 0.6348
+Onset & Offset F1: 0.2482
+
+Transcribed 94 files out of 360
+
+Scores for file 01_SS2-88-F_comp_mic.wav
+Onset F1: 0.6393
+Onset & Offset F1: 0.1448
+
+Transcribed 95 files out of 360
+
+Scores for file 01_SS1-100-C#_solo_mic.wav
+Onset F1: 0.5299
+Onset & Offset F1: 0.1937
+
+Transcribed 96 files out of 360
+
+Scores for file 01_SS1-100-C#_comp_mic.wav
+Onset F1: 0.6145
+Onset & Offset F1: 0.1846
+
+Transcribed 97 files out of 360
+
+Scores for file 01_SS1-68-E_solo_mic.wav
+Onset F1: 0.6144
+Onset & Offset F1: 0.1191
+
+Transcribed 98 files out of 360
+
+Scores for file 01_SS1-68-E_comp_mic.wav
+Onset F1: 0.6316
+Onset & Offset F1: 0.2632
+
+Transcribed 99 files out of 360
+
+Scores for file 01_Rock3-148-C_solo_mic.wav
+Onset F1: 0.5976
+Onset & Offset F1: 0.2073
+
+Transcribed 100 files out of 360
+
+Scores for file 01_Rock3-148-C_comp_mic.wav
+Onset F1: 0.4579
+Onset & Offset F1: 0.0623
+
+Transcribed 101 files out of 360
+
+Scores for file 01_Rock3-117-Bb_solo_mic.wav
+Onset F1: 0.6383
+Onset & Offset F1: 0.2340
+
+Transcribed 102 files out of 360
+
+Scores for file 01_Rock3-117-Bb_comp_mic.wav
+Onset F1: 0.6101
+Onset & Offset F1: 0.2521
+
+Transcribed 103 files out of 360
+
+Scores for file 01_Rock2-142-D_solo_mic.wav
+Onset F1: 0.5569
+Onset & Offset F1: 0.1317
+
+Transcribed 104 files out of 360
+
+Scores for file 01_Rock2-142-D_comp_mic.wav
+Onset F1: 0.6474
+Onset & Offset F1: 0.1246
+
+Transcribed 105 files out of 360
+
+Scores for file 01_Rock2-85-F_solo_mic.wav
+Onset F1: 0.5409
+Onset & Offset F1: 0.1673
+
+Transcribed 106 files out of 360
+
+Scores for file 01_Rock2-85-F_comp_mic.wav
+Onset F1: 0.6607
+Onset & Offset F1: 0.2664
+
+Transcribed 107 files out of 360
+
+Scores for file 01_Rock1-130-A_solo_mic.wav
+Onset F1: 0.4665
+Onset & Offset F1: 0.0895
+
+Transcribed 108 files out of 360
+
+Scores for file 01_Rock1-130-A_comp_mic.wav
+Onset F1: 0.4476
+Onset & Offset F1: 0.1008
+
+Transcribed 109 files out of 360
+
+Scores for file 01_Rock1-90-C#_solo_mic.wav
+Onset F1: 0.5990
+Onset & Offset F1: 0.2624
+
+Transcribed 110 files out of 360
+
+Scores for file 01_Rock1-90-C#_comp_mic.wav
+Onset F1: 0.5719
+Onset & Offset F1: 0.2842
+
+Transcribed 111 files out of 360
+
+Scores for file 01_Jazz3-150-C_solo_mic.wav
+Onset F1: 0.6052
+Onset & Offset F1: 0.2509
+
+Transcribed 112 files out of 360
+
+Scores for file 01_Jazz3-150-C_comp_mic.wav
+Onset F1: 0.6629
+Onset & Offset F1: 0.0899
+
+Transcribed 113 files out of 360
+
+Scores for file 01_Jazz3-137-Eb_solo_mic.wav
+Onset F1: 0.6146
+Onset & Offset F1: 0.2534
+
+Transcribed 114 files out of 360
+
+Scores for file 01_Jazz3-137-Eb_comp_mic.wav
+Onset F1: 0.6621
+Onset & Offset F1: 0.1507
+
+Transcribed 115 files out of 360
+
+Scores for file 01_Jazz2-187-F#_solo_mic.wav
+Onset F1: 0.6846
+Onset & Offset F1: 0.2550
+
+Transcribed 116 files out of 360
+
+Scores for file 02_Funk3-98-A_comp_mic.wav
+Onset F1: 0.5128
+Onset & Offset F1: 0.1368
+
+Transcribed 117 files out of 360
+
+Scores for file 02_Funk2-119-G_solo_mic.wav
+Onset F1: 0.5635
+Onset & Offset F1: 0.1796
+
+Transcribed 118 files out of 360
+
+Scores for file 02_Funk2-119-G_comp_mic.wav
+Onset F1: 0.4357
+Onset & Offset F1: 0.0892
+
+Transcribed 119 files out of 360
+
+Scores for file 02_Funk2-108-Eb_solo_mic.wav
+Onset F1: 0.4394
+Onset & Offset F1: 0.2121
+
+Transcribed 120 files out of 360
+
+Scores for file 02_Funk2-108-Eb_comp_mic.wav
+Onset F1: 0.0228
+Onset & Offset F1: 0.0000
+
+Transcribed 121 files out of 360
+
+Scores for file 02_Funk1-114-Ab_solo_mic.wav
+Onset F1: 0.5185
+Onset & Offset F1: 0.0905
+
+Transcribed 122 files out of 360
+
+Scores for file 02_Funk1-114-Ab_comp_mic.wav
+Onset F1: 0.5217
+Onset & Offset F1: 0.0340
+
+Transcribed 123 files out of 360
+
+Scores for file 02_Funk1-97-C_solo_mic.wav
+Onset F1: 0.5427
+Onset & Offset F1: 0.2513
+
+Transcribed 124 files out of 360
+
+Scores for file 02_Funk1-97-C_comp_mic.wav
+Onset F1: 0.5524
+Onset & Offset F1: 0.0952
+
+Transcribed 125 files out of 360
+
+Scores for file 02_BN3-154-E_solo_mic.wav
+Onset F1: 0.5865
+Onset & Offset F1: 0.1250
+
+Transcribed 126 files out of 360
+
+Scores for file 02_BN3-154-E_comp_mic.wav
+Onset F1: 0.4813
+Onset & Offset F1: 0.1535
+
+Transcribed 127 files out of 360
+
+Scores for file 02_BN3-119-G_solo_mic.wav
+Onset F1: 0.5737
+Onset & Offset F1: 0.2072
+
+Transcribed 128 files out of 360
+
+Scores for file 02_BN3-119-G_comp_mic.wav
+Onset F1: 0.5009
+Onset & Offset F1: 0.1832
+
+Transcribed 129 files out of 360
+
+Scores for file 02_BN2-166-Ab_solo_mic.wav
+Onset F1: 0.6610
+Onset & Offset F1: 0.1695
+
+Transcribed 130 files out of 360
+
+Scores for file 02_BN2-166-Ab_comp_mic.wav
+Onset F1: 0.6476
+Onset & Offset F1: 0.2693
+
+Transcribed 131 files out of 360
+
+Scores for file 02_BN2-131-B_solo_mic.wav
+Onset F1: 0.5714
+Onset & Offset F1: 0.3069
+
+Transcribed 132 files out of 360
+
+Scores for file 02_BN2-131-B_comp_mic.wav
+Onset F1: 0.5597
+Onset & Offset F1: 0.1502
+
+Transcribed 133 files out of 360
+
+Scores for file 02_BN1-147-Gb_solo_mic.wav
+Onset F1: 0.4815
+Onset & Offset F1: 0.2037
+
+Transcribed 134 files out of 360
+
+Scores for file 02_BN1-147-Gb_comp_mic.wav
+Onset F1: 0.5327
+Onset & Offset F1: 0.1028
+
+Transcribed 135 files out of 360
+
+Scores for file 02_BN1-129-Eb_solo_mic.wav
+Onset F1: 0.4609
+Onset & Offset F1: 0.0609
+
+Transcribed 136 files out of 360
+
+Scores for file 02_BN1-129-Eb_comp_mic.wav
+Onset F1: 0.5201
+Onset & Offset F1: 0.2271
+
+Transcribed 137 files out of 360
+
+Scores for file 01_SS3-98-C_solo_mic.wav
+Onset F1: 0.6025
+Onset & Offset F1: 0.2033
+
+Transcribed 138 files out of 360
+
+Scores for file 01_SS3-98-C_comp_mic.wav
+Onset F1: 0.5383
+Onset & Offset F1: 0.2268
+
+Transcribed 139 files out of 360
+
+Scores for file 01_SS3-84-Bb_solo_mic.wav
+Onset F1: 0.5721
+Onset & Offset F1: 0.1802
+
+Transcribed 140 files out of 360
+
+Scores for file 01_SS3-84-Bb_comp_mic.wav
+Onset F1: 0.6758
+Onset & Offset F1: 0.2831
+
+Transcribed 141 files out of 360
+
+Scores for file 02_Rock3-148-C_solo_mic.wav
+Onset F1: 0.5561
+Onset & Offset F1: 0.1561
+
+Transcribed 142 files out of 360
+
+Scores for file 02_Rock3-148-C_comp_mic.wav
+Onset F1: 0.4322
+Onset & Offset F1: 0.0771
+
+Transcribed 143 files out of 360
+
+Scores for file 02_Rock3-117-Bb_solo_mic.wav
+Onset F1: 0.5639
+Onset & Offset F1: 0.1180
+
+Transcribed 144 files out of 360
+
+Scores for file 02_Rock3-117-Bb_comp_mic.wav
+Onset F1: 0.3959
+Onset & Offset F1: 0.1028
+
+Transcribed 145 files out of 360
+
+Scores for file 02_Rock2-142-D_solo_mic.wav
+Onset F1: 0.5190
+Onset & Offset F1: 0.2532
+
+Transcribed 146 files out of 360
+
+Scores for file 02_Rock2-142-D_comp_mic.wav
+Onset F1: 0.5046
+Onset & Offset F1: 0.1076
+
+Transcribed 147 files out of 360
+
+Scores for file 02_Rock2-85-F_solo_mic.wav
+Onset F1: 0.6720
+Onset & Offset F1: 0.3840
+
+Transcribed 148 files out of 360
+
+Scores for file 02_Rock2-85-F_comp_mic.wav
+Onset F1: 0.6531
+Onset & Offset F1: 0.1373
+
+Transcribed 149 files out of 360
+
+Scores for file 02_Rock1-130-A_solo_mic.wav
+Onset F1: 0.4836
+Onset & Offset F1: 0.1475
+
+Transcribed 150 files out of 360
+
+Scores for file 02_Rock1-130-A_comp_mic.wav
+Onset F1: 0.4800
+Onset & Offset F1: 0.0706
+
+Transcribed 151 files out of 360
+
+Scores for file 02_Rock1-90-C#_solo_mic.wav
+Onset F1: 0.5120
+Onset & Offset F1: 0.1360
+
+Transcribed 152 files out of 360
+
+Scores for file 02_Rock1-90-C#_comp_mic.wav
+Onset F1: 0.3787
+Onset & Offset F1: 0.0213
+
+Transcribed 153 files out of 360
+
+Scores for file 02_Jazz3-150-C_solo_mic.wav
+Onset F1: 0.4979
+Onset & Offset F1: 0.0928
+
+Transcribed 154 files out of 360
+
+Scores for file 02_Jazz3-150-C_comp_mic.wav
+Onset F1: 0.6309
+Onset & Offset F1: 0.2383
+
+Transcribed 155 files out of 360
+
+Scores for file 02_Jazz3-137-Eb_solo_mic.wav
+Onset F1: 0.5179
+Onset & Offset F1: 0.2072
+
+Transcribed 156 files out of 360
+
+Scores for file 02_Jazz3-137-Eb_comp_mic.wav
+Onset F1: 0.4207
+Onset & Offset F1: 0.0976
+
+Transcribed 157 files out of 360
+
+Scores for file 02_Jazz2-187-F#_solo_mic.wav
+Onset F1: 0.5860
+Onset & Offset F1: 0.1656
+
+Transcribed 158 files out of 360
+
+Scores for file 02_Jazz2-187-F#_comp_mic.wav
+Onset F1: 0.4519
+Onset & Offset F1: 0.1088
+
+Transcribed 159 files out of 360
+
+Scores for file 02_Jazz2-110-Bb_solo_mic.wav
+Onset F1: 0.4912
+Onset & Offset F1: 0.2924
+
+Transcribed 160 files out of 360
+
+Scores for file 02_Jazz2-110-Bb_comp_mic.wav
+Onset F1: 0.2692
+Onset & Offset F1: 0.0495
+
+Transcribed 161 files out of 360
+
+Scores for file 02_Jazz1-200-B_solo_mic.wav
+Onset F1: 0.6230
+Onset & Offset F1: 0.0656
+
+Transcribed 162 files out of 360
+
+Scores for file 02_Jazz1-200-B_comp_mic.wav
+Onset F1: 0.1792
+Onset & Offset F1: 0.0849
+
+Transcribed 163 files out of 360
+
+Scores for file 02_Jazz1-130-D_solo_mic.wav
+Onset F1: 0.6645
+Onset & Offset F1: 0.3127
+
+Transcribed 164 files out of 360
+
+Scores for file 02_Jazz1-130-D_comp_mic.wav
+Onset F1: 0.5609
+Onset & Offset F1: 0.2217
+
+Transcribed 165 files out of 360
+
+Scores for file 02_Funk3-112-C#_solo_mic.wav
+Onset F1: 0.5201
+Onset & Offset F1: 0.1832
+
+Transcribed 166 files out of 360
+
+Scores for file 02_Funk3-112-C#_comp_mic.wav
+Onset F1: 0.6504
+Onset & Offset F1: 0.1770
+
+Transcribed 167 files out of 360
+
+Scores for file 02_Funk3-98-A_solo_mic.wav
+Onset F1: 0.6341
+Onset & Offset F1: 0.3024
+
+Transcribed 168 files out of 360
+
+Scores for file 03_Funk1-97-C_comp_mic.wav
+Onset F1: 0.4656
+Onset & Offset F1: 0.1215
+
+Transcribed 169 files out of 360
+
+Scores for file 03_BN3-154-E_solo_mic.wav
+Onset F1: 0.3969
+Onset & Offset F1: 0.0545
+
+Transcribed 170 files out of 360
+
+Scores for file 03_BN3-154-E_comp_mic.wav
+Onset F1: 0.5949
+Onset & Offset F1: 0.0615
+
+Transcribed 171 files out of 360
+
+Scores for file 03_BN3-119-G_solo_mic.wav
+Onset F1: 0.4852
+Onset & Offset F1: 0.1180
+
+Transcribed 172 files out of 360
+
+Scores for file 03_BN3-119-G_comp_mic.wav
+Onset F1: 0.5369
+Onset & Offset F1: 0.0697
+
+Transcribed 173 files out of 360
+
+Scores for file 03_BN2-166-Ab_solo_mic.wav
+Onset F1: 0.5018
+Onset & Offset F1: 0.0582
+
+Transcribed 174 files out of 360
+
+Scores for file 03_BN2-166-Ab_comp_mic.wav
+Onset F1: 0.5451
+Onset & Offset F1: 0.0755
+
+Transcribed 175 files out of 360
+
+Scores for file 03_BN2-131-B_solo_mic.wav
+Onset F1: 0.4615
+Onset & Offset F1: 0.1781
+
+Transcribed 176 files out of 360
+
+Scores for file 03_BN2-131-B_comp_mic.wav
+Onset F1: 0.5773
+Onset & Offset F1: 0.0866
+
+Transcribed 177 files out of 360
+
+Scores for file 03_BN1-147-Gb_solo_mic.wav
+Onset F1: 0.5604
+Onset & Offset F1: 0.0769
+
+Transcribed 178 files out of 360
+
+Scores for file 03_BN1-147-Gb_comp_mic.wav
+Onset F1: 0.4462
+Onset & Offset F1: 0.0108
+
+Transcribed 179 files out of 360
+
+Scores for file 03_BN1-129-Eb_solo_mic.wav
+Onset F1: 0.5291
+Onset & Offset F1: 0.0529
+
+Transcribed 180 files out of 360
+
+Scores for file 03_BN1-129-Eb_comp_mic.wav
+Onset F1: 0.4837
+Onset & Offset F1: 0.0744
+
+Transcribed 181 files out of 360
+
+Scores for file 02_SS3-98-C_solo_mic.wav
+Onset F1: 0.5640
+Onset & Offset F1: 0.0853
+
+Transcribed 182 files out of 360
+
+Scores for file 02_SS3-98-C_comp_mic.wav
+Onset F1: 0.5826
+Onset & Offset F1: 0.1769
+
+Transcribed 183 files out of 360
+
+Scores for file 02_SS3-84-Bb_solo_mic.wav
+Onset F1: 0.5858
+Onset & Offset F1: 0.2586
+
+Transcribed 184 files out of 360
+
+Scores for file 02_SS3-84-Bb_comp_mic.wav
+Onset F1: 0.5750
+Onset & Offset F1: 0.2068
+
+Transcribed 185 files out of 360
+
+Scores for file 02_SS2-107-Ab_solo_mic.wav
+Onset F1: 0.6367
+Onset & Offset F1: 0.0900
+
+Transcribed 186 files out of 360
+
+Scores for file 02_SS2-107-Ab_comp_mic.wav
+Onset F1: 0.5144
+Onset & Offset F1: 0.0370
+
+Transcribed 187 files out of 360
+
+Scores for file 02_SS2-88-F_solo_mic.wav
+Onset F1: 0.4252
+Onset & Offset F1: 0.1260
+
+Transcribed 188 files out of 360
+
+Scores for file 02_SS2-88-F_comp_mic.wav
+Onset F1: 0.4772
+Onset & Offset F1: 0.0954
+
+Transcribed 189 files out of 360
+
+Scores for file 02_SS1-100-C#_solo_mic.wav
+Onset F1: 0.4129
+Onset & Offset F1: 0.1290
+
+Transcribed 190 files out of 360
+
+Scores for file 02_SS1-100-C#_comp_mic.wav
+Onset F1: 0.4069
+Onset & Offset F1: 0.0671
+
+Transcribed 191 files out of 360
+
+Scores for file 02_SS1-68-E_solo_mic.wav
+Onset F1: 0.4138
+Onset & Offset F1: 0.0948
+
+Transcribed 192 files out of 360
+
+Scores for file 02_SS1-68-E_comp_mic.wav
+Onset F1: 0.4444
+Onset & Offset F1: 0.0426
+
+Transcribed 193 files out of 360
+
+Scores for file 03_Rock1-90-C#_solo_mic.wav
+Onset F1: 0.5431
+Onset & Offset F1: 0.1293
+
+Transcribed 194 files out of 360
+
+Scores for file 03_Rock1-90-C#_comp_mic.wav
+Onset F1: 0.5802
+Onset & Offset F1: 0.0835
+
+Transcribed 195 files out of 360
+
+Scores for file 03_Jazz3-150-C_solo_mic.wav
+Onset F1: 0.5414
+Onset & Offset F1: 0.0602
+
+Transcribed 196 files out of 360
+
+Scores for file 03_Jazz3-150-C_comp_mic.wav
+Onset F1: 0.7031
+Onset & Offset F1: 0.2344
+
+Transcribed 197 files out of 360
+
+Scores for file 03_Jazz3-137-Eb_solo_mic.wav
+Onset F1: 0.5326
+Onset & Offset F1: 0.1643
+
+Transcribed 198 files out of 360
+
+Scores for file 03_Jazz3-137-Eb_comp_mic.wav
+Onset F1: 0.5859
+Onset & Offset F1: 0.1616
+
+Transcribed 199 files out of 360
+
+Scores for file 03_Jazz2-187-F#_solo_mic.wav
+Onset F1: 0.5532
+Onset & Offset F1: 0.1106
+
+Transcribed 200 files out of 360
+
+Scores for file 03_Jazz2-187-F#_comp_mic.wav
+Onset F1: 0.6364
+Onset & Offset F1: 0.0992
+
+Transcribed 201 files out of 360
+
+Scores for file 03_Jazz2-110-Bb_solo_mic.wav
+Onset F1: 0.4884
+Onset & Offset F1: 0.1320
+
+Transcribed 202 files out of 360
+
+Scores for file 03_Jazz2-110-Bb_comp_mic.wav
+Onset F1: 0.6528
+Onset & Offset F1: 0.1736
+
+Transcribed 203 files out of 360
+
+Scores for file 03_Jazz1-200-B_solo_mic.wav
+Onset F1: 0.4258
+Onset & Offset F1: 0.0516
+
+Transcribed 204 files out of 360
+
+Scores for file 03_Jazz1-200-B_comp_mic.wav
+Onset F1: 0.6509
+Onset & Offset F1: 0.2249
+
+Transcribed 205 files out of 360
+
+Scores for file 03_Jazz1-130-D_solo_mic.wav
+Onset F1: 0.5500
+Onset & Offset F1: 0.0750
+
+Transcribed 206 files out of 360
+
+Scores for file 03_Jazz1-130-D_comp_mic.wav
+Onset F1: 0.6207
+Onset & Offset F1: 0.1182
+
+Transcribed 207 files out of 360
+
+Scores for file 03_Funk3-112-C#_solo_mic.wav
+Onset F1: 0.4604
+Onset & Offset F1: 0.0911
+
+Transcribed 208 files out of 360
+
+Scores for file 03_Funk3-112-C#_comp_mic.wav
+Onset F1: 0.5690
+Onset & Offset F1: 0.1207
+
+Transcribed 209 files out of 360
+
+Scores for file 03_Funk3-98-A_solo_mic.wav
+Onset F1: 0.5092
+Onset & Offset F1: 0.1376
+
+Transcribed 210 files out of 360
+
+Scores for file 03_Funk3-98-A_comp_mic.wav
+Onset F1: 0.5477
+Onset & Offset F1: 0.2177
+
+Transcribed 211 files out of 360
+
+Scores for file 03_Funk2-119-G_solo_mic.wav
+Onset F1: 0.5014
+Onset & Offset F1: 0.0669
+
+Transcribed 212 files out of 360
+
+Scores for file 03_Funk2-119-G_comp_mic.wav
+Onset F1: 0.5948
+Onset & Offset F1: 0.2226
+
+Transcribed 213 files out of 360
+
+Scores for file 03_Funk2-108-Eb_solo_mic.wav
+Onset F1: 0.5274
+Onset & Offset F1: 0.0746
+
+Transcribed 214 files out of 360
+
+Scores for file 03_Funk2-108-Eb_comp_mic.wav
+Onset F1: 0.5841
+Onset & Offset F1: 0.1652
+
+Transcribed 215 files out of 360
+
+Scores for file 03_Funk1-114-Ab_solo_mic.wav
+Onset F1: 0.5372
+Onset & Offset F1: 0.1489
+
+Transcribed 216 files out of 360
+
+Scores for file 03_Funk1-114-Ab_comp_mic.wav
+Onset F1: 0.4680
+Onset & Offset F1: 0.1330
+
+Transcribed 217 files out of 360
+
+Scores for file 03_Funk1-97-C_solo_mic.wav
+Onset F1: 0.5449
+Onset & Offset F1: 0.1300
+
+Transcribed 218 files out of 360
+
+Scores for file 04_BN1-129-Eb_solo_mic.wav
+Onset F1: 0.4663
+Onset & Offset F1: 0.1104
+
+Transcribed 219 files out of 360
+
+Scores for file 04_BN1-129-Eb_comp_mic.wav
+Onset F1: 0.7500
+Onset & Offset F1: 0.1389
+
+Transcribed 220 files out of 360
+
+Scores for file 03_SS3-98-C_solo_mic.wav
+Onset F1: 0.5845
+Onset & Offset F1: 0.1089
+
+Transcribed 221 files out of 360
+
+Scores for file 03_SS3-98-C_comp_mic.wav
+Onset F1: 0.6185
+Onset & Offset F1: 0.1611
+
+Transcribed 222 files out of 360
+
+Scores for file 03_SS3-84-Bb_solo_mic.wav
+Onset F1: 0.4741
+Onset & Offset F1: 0.1704
+
+Transcribed 223 files out of 360
+
+Scores for file 03_SS3-84-Bb_comp_mic.wav
+Onset F1: 0.5463
+Onset & Offset F1: 0.1593
+
+Transcribed 224 files out of 360
+
+Scores for file 03_SS2-107-Ab_solo_mic.wav
+Onset F1: 0.5607
+Onset & Offset F1: 0.1040
+
+Transcribed 225 files out of 360
+
+Scores for file 03_SS2-107-Ab_comp_mic.wav
+Onset F1: 0.5057
+Onset & Offset F1: 0.0706
+
+Transcribed 226 files out of 360
+
+Scores for file 03_SS2-88-F_solo_mic.wav
+Onset F1: 0.5789
+Onset & Offset F1: 0.1447
+
+Transcribed 227 files out of 360
+
+Scores for file 03_SS2-88-F_comp_mic.wav
+Onset F1: 0.5907
+Onset & Offset F1: 0.1294
+
+Transcribed 228 files out of 360
+
+Scores for file 03_SS1-100-C#_solo_mic.wav
+Onset F1: 0.5119
+Onset & Offset F1: 0.0952
+
+Transcribed 229 files out of 360
+
+Scores for file 03_SS1-100-C#_comp_mic.wav
+Onset F1: 0.5253
+Onset & Offset F1: 0.0461
+
+Transcribed 230 files out of 360
+
+Scores for file 03_SS1-68-E_solo_mic.wav
+Onset F1: 0.5556
+Onset & Offset F1: 0.1313
+
+Transcribed 231 files out of 360
+
+Scores for file 03_SS1-68-E_comp_mic.wav
+Onset F1: 0.5479
+Onset & Offset F1: 0.0736
+
+Transcribed 232 files out of 360
+
+Scores for file 03_Rock3-148-C_solo_mic.wav
+Onset F1: 0.5989
+Onset & Offset F1: 0.1070
+
+Transcribed 233 files out of 360
+
+Scores for file 03_Rock3-148-C_comp_mic.wav
+Onset F1: 0.6366
+Onset & Offset F1: 0.2028
+
+Transcribed 234 files out of 360
+
+Scores for file 03_Rock3-117-Bb_solo_mic.wav
+Onset F1: 0.6000
+Onset & Offset F1: 0.2080
+
+Transcribed 235 files out of 360
+
+Scores for file 03_Rock3-117-Bb_comp_mic.wav
+Onset F1: 0.5955
+Onset & Offset F1: 0.1294
+
+Transcribed 236 files out of 360
+
+Scores for file 03_Rock2-142-D_solo_mic.wav
+Onset F1: 0.5869
+Onset & Offset F1: 0.0695
+
+Transcribed 237 files out of 360
+
+Scores for file 03_Rock2-142-D_comp_mic.wav
+Onset F1: 0.6242
+Onset & Offset F1: 0.1634
+
+Transcribed 238 files out of 360
+
+Scores for file 03_Rock2-85-F_solo_mic.wav
+Onset F1: 0.5778
+Onset & Offset F1: 0.1270
+
+Transcribed 239 files out of 360
+
+Scores for file 03_Rock2-85-F_comp_mic.wav
+Onset F1: 0.6709
+Onset & Offset F1: 0.2205
+
+Transcribed 240 files out of 360
+
+Scores for file 03_Rock1-130-A_solo_mic.wav
+Onset F1: 0.5746
+Onset & Offset F1: 0.1547
+
+Transcribed 241 files out of 360
+
+Scores for file 03_Rock1-130-A_comp_mic.wav
+Onset F1: 0.5521
+Onset & Offset F1: 0.1806
+
+Transcribed 242 files out of 360
+
+Scores for file 04_Jazz2-110-Bb_solo_mic.wav
+Onset F1: 0.4904
+Onset & Offset F1: 0.1686
+
+Transcribed 243 files out of 360
+
+Scores for file 04_Jazz2-110-Bb_comp_mic.wav
+Onset F1: 0.6733
+Onset & Offset F1: 0.3000
+
+Transcribed 244 files out of 360
+
+Scores for file 04_Jazz1-200-B_solo_mic.wav
+Onset F1: 0.5123
+Onset & Offset F1: 0.0690
+
+Transcribed 245 files out of 360
+
+Scores for file 04_Jazz1-200-B_comp_mic.wav
+Onset F1: 0.2690
+Onset & Offset F1: 0.0292
+
+Transcribed 246 files out of 360
+
+Scores for file 04_Jazz1-130-D_solo_mic.wav
+Onset F1: 0.4625
+Onset & Offset F1: 0.1000
+
+Transcribed 247 files out of 360
+
+Scores for file 04_Jazz1-130-D_comp_mic.wav
+Onset F1: 0.5846
+Onset & Offset F1: 0.0769
+
+Transcribed 248 files out of 360
+
+Scores for file 04_Funk3-112-C#_solo_mic.wav
+Onset F1: 0.4709
+Onset & Offset F1: 0.1040
+
+Transcribed 249 files out of 360
+
+Scores for file 04_Funk3-112-C#_comp_mic.wav
+Onset F1: 0.5794
+Onset & Offset F1: 0.0500
+
+Transcribed 250 files out of 360
+
+Scores for file 04_Funk3-98-A_solo_mic.wav
+Onset F1: 0.5571
+Onset & Offset F1: 0.1671
+
+Transcribed 251 files out of 360
+
+Scores for file 04_Funk3-98-A_comp_mic.wav
+Onset F1: 0.5458
+Onset & Offset F1: 0.1096
+
+Transcribed 252 files out of 360
+
+Scores for file 04_Funk2-119-G_solo_mic.wav
+Onset F1: 0.5071
+Onset & Offset F1: 0.1848
+
+Transcribed 253 files out of 360
+
+Scores for file 04_Funk2-119-G_comp_mic.wav
+Onset F1: 0.5598
+Onset & Offset F1: 0.1339
+
+Transcribed 254 files out of 360
+
+Scores for file 04_Funk2-108-Eb_solo_mic.wav
+Onset F1: 0.5255
+Onset & Offset F1: 0.2041
+
+Transcribed 255 files out of 360
+
+Scores for file 04_Funk2-108-Eb_comp_mic.wav
+Onset F1: 0.5402
+Onset & Offset F1: 0.1027
+
+Transcribed 256 files out of 360
+
+Scores for file 04_Funk1-114-Ab_solo_mic.wav
+Onset F1: 0.3889
+Onset & Offset F1: 0.0679
+
+Transcribed 257 files out of 360
+
+Scores for file 04_Funk1-114-Ab_comp_mic.wav
+Onset F1: 0.5394
+Onset & Offset F1: 0.0758
+
+Transcribed 258 files out of 360
+
+Scores for file 04_Funk1-97-C_solo_mic.wav
+Onset F1: 0.5539
+Onset & Offset F1: 0.2274
+
+Transcribed 259 files out of 360
+
+Scores for file 04_Funk1-97-C_comp_mic.wav
+Onset F1: 0.4528
+Onset & Offset F1: 0.0593
+
+Transcribed 260 files out of 360
+
+Scores for file 04_BN3-154-E_solo_mic.wav
+Onset F1: 0.5221
+Onset & Offset F1: 0.2206
+
+Transcribed 261 files out of 360
+
+Scores for file 04_BN3-154-E_comp_mic.wav
+Onset F1: 0.3233
+Onset & Offset F1: 0.0110
+
+Transcribed 262 files out of 360
+
+Scores for file 04_BN3-119-G_solo_mic.wav
+Onset F1: 0.4569
+Onset & Offset F1: 0.1293
+
+Transcribed 263 files out of 360
+
+Scores for file 04_BN3-119-G_comp_mic.wav
+Onset F1: 0.7368
+Onset & Offset F1: 0.1303
+
+Transcribed 264 files out of 360
+
+Scores for file 04_BN2-166-Ab_solo_mic.wav
+Onset F1: 0.4872
+Onset & Offset F1: 0.1154
+
+Transcribed 265 files out of 360
+
+Scores for file 04_BN2-166-Ab_comp_mic.wav
+Onset F1: 0.6497
+Onset & Offset F1: 0.1359
+
+Transcribed 266 files out of 360
+
+Scores for file 04_BN2-131-B_solo_mic.wav
+Onset F1: 0.5888
+Onset & Offset F1: 0.1827
+
+Transcribed 267 files out of 360
+
+Scores for file 04_BN2-131-B_comp_mic.wav
+Onset F1: 0.7333
+Onset & Offset F1: 0.1905
+
+Transcribed 268 files out of 360
+
+Scores for file 04_BN1-147-Gb_solo_mic.wav
+Onset F1: 0.5799
+Onset & Offset F1: 0.2367
+
+Transcribed 269 files out of 360
+
+Scores for file 04_BN1-147-Gb_comp_mic.wav
+Onset F1: 0.7176
+Onset & Offset F1: 0.3235
+
+Transcribed 270 files out of 360
+
+Scores for file 04_Rock2-142-D_comp_mic.wav
+Onset F1: 0.6667
+Onset & Offset F1: 0.1893
+
+Transcribed 271 files out of 360
+
+Scores for file 04_Rock2-85-F_solo_mic.wav
+Onset F1: 0.5084
+Onset & Offset F1: 0.1006
+
+Transcribed 272 files out of 360
+
+Scores for file 04_Rock2-85-F_comp_mic.wav
+Onset F1: 0.4085
+Onset & Offset F1: 0.0176
+
+Transcribed 273 files out of 360
+
+Scores for file 04_Rock1-130-A_solo_mic.wav
+Onset F1: 0.5079
+Onset & Offset F1: 0.1587
+
+Transcribed 274 files out of 360
+
+Scores for file 04_Rock1-130-A_comp_mic.wav
+Onset F1: 0.6197
+Onset & Offset F1: 0.0855
+
+Transcribed 275 files out of 360
+
+Scores for file 04_Rock1-90-C#_solo_mic.wav
+Onset F1: 0.4580
+Onset & Offset F1: 0.1145
+
+Transcribed 276 files out of 360
+
+Scores for file 04_Rock1-90-C#_comp_mic.wav
+Onset F1: 0.6271
+Onset & Offset F1: 0.0466
+
+Transcribed 277 files out of 360
+
+Scores for file 04_Jazz3-150-C_solo_mic.wav
+Onset F1: 0.4889
+Onset & Offset F1: 0.1841
+
+Transcribed 278 files out of 360
+
+Scores for file 04_Jazz3-150-C_comp_mic.wav
+Onset F1: 0.6495
+Onset & Offset F1: 0.1495
+
+Transcribed 279 files out of 360
+
+Scores for file 04_Jazz3-137-Eb_solo_mic.wav
+Onset F1: 0.5078
+Onset & Offset F1: 0.1172
+
+Transcribed 280 files out of 360
+
+Scores for file 04_Jazz3-137-Eb_comp_mic.wav
+Onset F1: 0.5434
+Onset & Offset F1: 0.1094
+
+Transcribed 281 files out of 360
+
+Scores for file 04_Jazz2-187-F#_solo_mic.wav
+Onset F1: 0.5917
+Onset & Offset F1: 0.2604
+
+Transcribed 282 files out of 360
+
+Scores for file 04_Jazz2-187-F#_comp_mic.wav
+Onset F1: 0.6000
+Onset & Offset F1: 0.0789
+
+Transcribed 283 files out of 360
+
+Scores for file 05_BN2-166-Ab_comp_mic.wav
+Onset F1: 0.7813
+Onset & Offset F1: 0.1867
+
+Transcribed 284 files out of 360
+
+Scores for file 05_BN2-131-B_solo_mic.wav
+Onset F1: 0.6462
+Onset & Offset F1: 0.4000
+
+Transcribed 285 files out of 360
+
+Scores for file 05_BN2-131-B_comp_mic.wav
+Onset F1: 0.8248
+Onset & Offset F1: 0.1752
+
+Transcribed 286 files out of 360
+
+Scores for file 05_BN1-147-Gb_solo_mic.wav
+Onset F1: 0.5854
+Onset & Offset F1: 0.2927
+
+Transcribed 287 files out of 360
+
+Scores for file 05_BN1-147-Gb_comp_mic.wav
+Onset F1: 0.7107
+Onset & Offset F1: 0.2562
+
+Transcribed 288 files out of 360
+
+Scores for file 05_BN1-129-Eb_solo_mic.wav
+Onset F1: 0.5736
+Onset & Offset F1: 0.1550
+
+Transcribed 289 files out of 360
+
+Scores for file 05_BN1-129-Eb_comp_mic.wav
+Onset F1: 0.8168
+Onset & Offset F1: 0.1381
+
+Transcribed 290 files out of 360
+
+Scores for file 04_SS3-98-C_solo_mic.wav
+Onset F1: 0.5855
+Onset & Offset F1: 0.1606
+
+Transcribed 291 files out of 360
+
+Scores for file 04_SS3-98-C_comp_mic.wav
+Onset F1: 0.6076
+Onset & Offset F1: 0.1354
+
+Transcribed 292 files out of 360
+
+Scores for file 04_SS3-84-Bb_solo_mic.wav
+Onset F1: 0.5155
+Onset & Offset F1: 0.1753
+
+Transcribed 293 files out of 360
+
+Scores for file 04_SS3-84-Bb_comp_mic.wav
+Onset F1: 0.5249
+Onset & Offset F1: 0.1312
+
+Transcribed 294 files out of 360
+
+Scores for file 04_SS2-107-Ab_solo_mic.wav
+Onset F1: 0.4981
+Onset & Offset F1: 0.0906
+
+Transcribed 295 files out of 360
+
+Scores for file 04_SS2-107-Ab_comp_mic.wav
+Onset F1: 0.5797
+Onset & Offset F1: 0.1254
+
+Transcribed 296 files out of 360
+
+Scores for file 04_SS2-88-F_solo_mic.wav
+Onset F1: 0.5172
+Onset & Offset F1: 0.1931
+
+Transcribed 297 files out of 360
+
+Scores for file 04_SS2-88-F_comp_mic.wav
+Onset F1: 0.3644
+Onset & Offset F1: 0.0708
+
+Transcribed 298 files out of 360
+
+Scores for file 04_SS1-100-C#_solo_mic.wav
+Onset F1: 0.5419
+Onset & Offset F1: 0.1084
+
+Transcribed 299 files out of 360
+
+Scores for file 04_SS1-100-C#_comp_mic.wav
+Onset F1: 0.5893
+Onset & Offset F1: 0.0357
+
+Transcribed 300 files out of 360
+
+Scores for file 04_SS1-68-E_solo_mic.wav
+Onset F1: 0.4776
+Onset & Offset F1: 0.1791
+
+Transcribed 301 files out of 360
+
+Scores for file 04_SS1-68-E_comp_mic.wav
+Onset F1: 0.4899
+Onset & Offset F1: 0.2568
+
+Transcribed 302 files out of 360
+
+Scores for file 04_Rock3-148-C_solo_mic.wav
+Onset F1: 0.5134
+Onset & Offset F1: 0.1839
+
+Transcribed 303 files out of 360
+
+Scores for file 04_Rock3-148-C_comp_mic.wav
+Onset F1: 0.6624
+Onset & Offset F1: 0.0939
+
+Transcribed 304 files out of 360
+
+Scores for file 04_Rock3-117-Bb_solo_mic.wav
+Onset F1: 0.5190
+Onset & Offset F1: 0.1574
+
+Transcribed 305 files out of 360
+
+Scores for file 04_Rock3-117-Bb_comp_mic.wav
+Onset F1: 0.5700
+Onset & Offset F1: 0.2160
+
+Transcribed 306 files out of 360
+
+Scores for file 04_Rock2-142-D_solo_mic.wav
+Onset F1: 0.5463
+Onset & Offset F1: 0.1756
+
+Transcribed 307 files out of 360
+
+Scores for file 05_Jazz3-137-Eb_comp_mic.wav
+Onset F1: 0.6048
+Onset & Offset F1: 0.0631
+
+Transcribed 308 files out of 360
+
+Scores for file 05_Jazz2-187-F#_solo_mic.wav
+Onset F1: 0.6026
+Onset & Offset F1: 0.2179
+
+Transcribed 309 files out of 360
+
+Scores for file 05_Jazz2-187-F#_comp_mic.wav
+Onset F1: 0.5638
+Onset & Offset F1: 0.0498
+
+Transcribed 310 files out of 360
+
+Scores for file 05_Jazz2-110-Bb_solo_mic.wav
+Onset F1: 0.6293
+Onset & Offset F1: 0.1810
+
+Transcribed 311 files out of 360
+
+Scores for file 05_Jazz2-110-Bb_comp_mic.wav
+Onset F1: 0.6182
+Onset & Offset F1: 0.0559
+
+Transcribed 312 files out of 360
+
+Scores for file 05_Jazz1-200-B_solo_mic.wav
+Onset F1: 0.4662
+Onset & Offset F1: 0.1654
+
+Transcribed 313 files out of 360
+
+Scores for file 05_Jazz1-200-B_comp_mic.wav
+Onset F1: 0.6121
+Onset & Offset F1: 0.1003
+
+Transcribed 314 files out of 360
+
+Scores for file 05_Jazz1-130-D_solo_mic.wav
+Onset F1: 0.4793
+Onset & Offset F1: 0.0922
+
+Transcribed 315 files out of 360
+
+Scores for file 05_Jazz1-130-D_comp_mic.wav
+Onset F1: 0.6931
+Onset & Offset F1: 0.1372
+
+Transcribed 316 files out of 360
+
+Scores for file 05_Funk3-112-C#_solo_mic.wav
+Onset F1: 0.4828
+Onset & Offset F1: 0.2414
+
+Transcribed 317 files out of 360
+
+Scores for file 05_Funk3-112-C#_comp_mic.wav
+Onset F1: 0.6977
+Onset & Offset F1: 0.2622
+
+Transcribed 318 files out of 360
+
+Scores for file 05_Funk3-98-A_solo_mic.wav
+Onset F1: 0.5806
+Onset & Offset F1: 0.1935
+
+Transcribed 319 files out of 360
+
+Scores for file 05_Funk3-98-A_comp_mic.wav
+Onset F1: 0.6006
+Onset & Offset F1: 0.2720
+
+Transcribed 320 files out of 360
+
+Scores for file 05_Funk2-119-G_solo_mic.wav
+Onset F1: 0.6240
+Onset & Offset F1: 0.3280
+
+Transcribed 321 files out of 360
+
+Scores for file 05_Funk2-119-G_comp_mic.wav
+Onset F1: 0.6972
+Onset & Offset F1: 0.2290
+
+Transcribed 322 files out of 360
+
+Scores for file 05_Funk2-108-Eb_solo_mic.wav
+Onset F1: 0.5342
+Onset & Offset F1: 0.2603
+
+Transcribed 323 files out of 360
+
+Scores for file 05_Funk2-108-Eb_comp_mic.wav
+Onset F1: 0.5908
+Onset & Offset F1: 0.1725
+
+Transcribed 324 files out of 360
+
+Scores for file 05_Funk1-114-Ab_solo_mic.wav
+Onset F1: 0.5943
+Onset & Offset F1: 0.2057
+
+Transcribed 325 files out of 360
+
+Scores for file 05_Funk1-114-Ab_comp_mic.wav
+Onset F1: 0.6527
+Onset & Offset F1: 0.2245
+
+Transcribed 326 files out of 360
+
+Scores for file 05_Funk1-97-C_solo_mic.wav
+Onset F1: 0.6071
+Onset & Offset F1: 0.2143
+
+Transcribed 327 files out of 360
+
+Scores for file 05_Funk1-97-C_comp_mic.wav
+Onset F1: 0.6651
+Onset & Offset F1: 0.1639
+
+Transcribed 328 files out of 360
+
+Scores for file 05_BN3-154-E_solo_mic.wav
+Onset F1: 0.5537
+Onset & Offset F1: 0.2825
+
+Transcribed 329 files out of 360
+
+Scores for file 05_BN3-154-E_comp_mic.wav
+Onset F1: 0.7593
+Onset & Offset F1: 0.1191
+
+Transcribed 330 files out of 360
+
+Scores for file 05_BN3-119-G_solo_mic.wav
+Onset F1: 0.5730
+Onset & Offset F1: 0.2270
+
+Transcribed 331 files out of 360
+
+Scores for file 05_BN3-119-G_comp_mic.wav
+Onset F1: 0.8305
+Onset & Offset F1: 0.1327
+
+Transcribed 332 files out of 360
+
+Scores for file 05_BN2-166-Ab_solo_mic.wav
+Onset F1: 0.6311
+Onset & Offset F1: 0.2621
+
+Transcribed 333 files out of 360
+
+Scores for file 05_SS3-84-Bb_solo_mic.wav
+Onset F1: 0.6721
+Onset & Offset F1: 0.2672
+
+Transcribed 334 files out of 360
+
+Scores for file 05_SS3-84-Bb_comp_mic.wav
+Onset F1: 0.7061
+Onset & Offset F1: 0.2330
+
+Transcribed 335 files out of 360
+
+Scores for file 05_SS2-107-Ab_solo_mic.wav
+Onset F1: 0.6441
+Onset & Offset F1: 0.3136
+
+Transcribed 336 files out of 360
+
+Scores for file 05_SS2-107-Ab_comp_mic.wav
+Onset F1: 0.6968
+Onset & Offset F1: 0.1695
+
+Transcribed 337 files out of 360
+
+Scores for file 05_SS2-88-F_solo_mic.wav
+Onset F1: 0.5380
+Onset & Offset F1: 0.1287
+
+Transcribed 338 files out of 360
+
+Scores for file 05_SS2-88-F_comp_mic.wav
+Onset F1: 0.6207
+Onset & Offset F1: 0.0726
+
+Transcribed 339 files out of 360
+
+Scores for file 05_SS1-100-C#_solo_mic.wav
+Onset F1: 0.5375
+Onset & Offset F1: 0.2625
+
+Transcribed 340 files out of 360
+
+Scores for file 05_SS1-100-C#_comp_mic.wav
+Onset F1: 0.4844
+Onset & Offset F1: 0.0417
+
+Transcribed 341 files out of 360
+
+Scores for file 05_SS1-68-E_solo_mic.wav
+Onset F1: 0.5294
+Onset & Offset F1: 0.1373
+
+Transcribed 342 files out of 360
+
+Scores for file 05_SS1-68-E_comp_mic.wav
+Onset F1: 0.5325
+Onset & Offset F1: 0.0488
+
+Transcribed 343 files out of 360
+
+Scores for file 05_Rock3-148-C_solo_mic.wav
+Onset F1: 0.5556
+Onset & Offset F1: 0.1746
+
+Transcribed 344 files out of 360
+
+Scores for file 05_Rock3-148-C_comp_mic.wav
+Onset F1: 0.6075
+Onset & Offset F1: 0.4150
+
+Transcribed 345 files out of 360
+
+Scores for file 05_Rock3-117-Bb_solo_mic.wav
+Onset F1: 0.5444
+Onset & Offset F1: 0.1893
+
+Transcribed 346 files out of 360
+
+Scores for file 05_Rock3-117-Bb_comp_mic.wav
+Onset F1: 0.7333
+Onset & Offset F1: 0.4702
+
+Transcribed 347 files out of 360
+
+Scores for file 05_Rock2-142-D_solo_mic.wav
+Onset F1: 0.6080
+Onset & Offset F1: 0.1360
+
+Transcribed 348 files out of 360
+
+Scores for file 05_Rock2-142-D_comp_mic.wav
+Onset F1: 0.6629
+Onset & Offset F1: 0.3495
+
+Transcribed 349 files out of 360
+
+Scores for file 05_Rock2-85-F_solo_mic.wav
+Onset F1: 0.5839
+Onset & Offset F1: 0.1752
+
+Transcribed 350 files out of 360
+
+Scores for file 05_Rock2-85-F_comp_mic.wav
+Onset F1: 0.6334
+Onset & Offset F1: 0.2797
+
+Transcribed 351 files out of 360
+
+Scores for file 05_Rock1-130-A_solo_mic.wav
+Onset F1: 0.5397
+Onset & Offset F1: 0.1270
+
+Transcribed 352 files out of 360
+
+Scores for file 05_Rock1-130-A_comp_mic.wav
+Onset F1: 0.7387
+Onset & Offset F1: 0.4815
+
+Transcribed 353 files out of 360
+
+Scores for file 05_Rock1-90-C#_solo_mic.wav
+Onset F1: 0.6559
+Onset & Offset F1: 0.2186
+
+Transcribed 354 files out of 360
+
+Scores for file 05_Rock1-90-C#_comp_mic.wav
+Onset F1: 0.6550
+Onset & Offset F1: 0.3314
+
+Transcribed 355 files out of 360
+
+Scores for file 05_Jazz3-150-C_solo_mic.wav
+Onset F1: 0.7051
+Onset & Offset F1: 0.2051
+
+Transcribed 356 files out of 360
+
+Scores for file 05_Jazz3-150-C_comp_mic.wav
+Onset F1: 0.5811
+Onset & Offset F1: 0.1081
+
+Transcribed 357 files out of 360
+
+Scores for file 05_Jazz3-137-Eb_solo_mic.wav
+Onset F1: 0.6505
+Onset & Offset F1: 0.2816
+
+Transcribed 358 files out of 360
+
+Scores for file 05_SS3-98-C_solo_mic.wav
+Onset F1: 0.6522
+Onset & Offset F1: 0.2261
+
+Transcribed 359 files out of 360
+
+Scores for file 05_SS3-98-C_comp_mic.wav
+Onset F1: 0.6618
+Onset & Offset F1: 0.1287
+
+Transcribed 360 files out of 360
+
+Average Onset F1: 0.5700
+Average Onset & Offset F1: 0.1694
